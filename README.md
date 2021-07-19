@@ -1,5 +1,51 @@
 # hw13-ecommerce-back-end
 
+## Table of Contents
+1. [General Info](#general-info)
+2. [Screenshot](#screenshot)
+3. [Technologies](#technologies)
+4. [Usage](#usage)
+5. [FAQs](#faqs)
+
+### General Info
+***
+### David OBrien's ECommerce Back-End Solution
+
+ECommerce back-end application facilitating management of Category, Product,
+Product Tags, and their relationships. Application is hosted on an express/node
+server with data stored in a proprietary MySql database.
+
+### Screenshot
+![Image text](./images/finished-screenshot.png)
+
+## Technologies
+***
+A list of technologies/patterns used within the project:
+  * node.js
+  * express server
+  * express routes - api
+  * javascript
+  * mysql database
+  * sequelizer ORM
+  * Insomnia - used to streamline testing of api routes
+
+## Usage
+***
+See link to demo video below:
+
+Link to github repository- https://github.com/dmobrienllc/hw13-ecommerce-back-end
+
+Link to ECommerce demo video- https://drive.google.com/file/d/1haIO4974s7yFLtL4Ilx1G8kbQUhpbqkp/view?usp=sharing
+
+
+## FAQs
+***
+
+Q Is this application awesome?
+
+A Why yes it is!
+---
+
 
 
 
