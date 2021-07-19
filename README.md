@@ -13,7 +13,8 @@
 
 ECommerce back-end application facilitating management of Category, Product,
 Product Tags, and their relationships. Application is hosted on an express/node
-server with data stored in a proprietary MySql database.
+server with data stored in a proprietary MySql database. We also use the 'Insomnia'
+application to exercise URLs for testing and demonstration purposes.
 
 ### Screenshot
 ![Image text](./images/finished-screenshot.png)
@@ -35,7 +36,7 @@ See link to demo video below:
 
 Link to github repository- https://github.com/dmobrienllc/hw13-ecommerce-back-end
 
-Link to ECommerce demo video- https://drive.google.com/file/d/1haIO4974s7yFLtL4Ilx1G8kbQUhpbqkp/view?usp=sharing
+Link to ECommerce demo video- https://drive.google.com/file/d/180NCu65TZ1WmvuRj6fLKCUiiZXCguxNv/view?usp=sharing
 
 
 ## FAQs
